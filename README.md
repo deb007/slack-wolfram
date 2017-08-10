@@ -5,7 +5,6 @@ Add this slack bot to your team and simply start searching with the keyword /ws
 
 Demo at https://slack-wolfram.glitch.me
 
-
 Examples
 ------------
 
